@@ -1,0 +1,28 @@
+# Do NOT update manually; changes here will be overwritten by Copier
+_commit: b71b261
+_src_path: https://github.com/oca-france/oca-addons-repo-template
+additional_ruff_rules: []
+convert_readme_fragments_to_markdown: true
+enable_checklog_odoo: true
+generate_requirements_txt: true
+github_check_license: true
+github_ci_extra_env: {}
+github_enable_codecov: true
+github_enable_makepot: true
+github_enable_stale_action: true
+github_enforce_dev_status_compatibility: true
+include_wkhtmltopdf: false
+odoo_test_flavor: Odoo
+odoo_version: 16.0
+org_name: OCA France
+org_slug: oca-france
+postgres_image: ''
+rebel_module_groups: []
+repo_description: Scale Certification
+repo_name: Odoo modules related to certification of the connexion between Odoo Point
+    of Sale and scales
+repo_slug: l10n-france-scale-certification
+repo_website: https://github.com/oca-france/l10n-france-scale-certification
+use_pyproject_toml: true
+use_ruff: true
+
