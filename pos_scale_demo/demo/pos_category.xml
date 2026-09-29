@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+    Copyright (C) 2026 - Today: GRAP (http://www.grap.coop)
+    @author: Sylvain LE GAL
+    License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
+-->
+<odoo>
+
+    <record model="pos.category" id="pos_category_food">
+        <field name="name">Food</field>
+    </record>
+
+</odoo>

@@ -1,0 +1,5 @@
+git+https://github.com/OCA/pos@refs/pull/1620/head#subdirectory=setup/pos_scale_usability
+git+https://github.com/coopiteasy/pos@refs/pull/41/head#subdirectory=setup/pos_tare
+
+odoo-addon-pos_driver_device_list @ git+https://gitlab.com/odoo-driver/odoo-addons-driver.git@16.0#subdirectory=pos_driver_device_list
+odoo-addon-pos_driver_scale @ git+https://gitlab.com/odoo-driver/odoo-addons-driver.git@16.0#subdirectory=pos_driver_scale
