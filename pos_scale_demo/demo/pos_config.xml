@@ -11,6 +11,7 @@
         <field name="proxy_ip">https://localhost:8069</field>
         <field name="iface_electronic_scale" eval="True" />
         <field name="iface_send_tare_to_scale" eval="True" />
+        <field name="iface_tare_scale_precision">0.002</field>
         <field name="iface_start_categ_id" ref="pos_category_food" />
     </record>
 
